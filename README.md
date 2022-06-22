@@ -1,3 +1,3 @@
 # Quick-Wit
 
-My Java Practice Codes
+My Java Practice Exercise
