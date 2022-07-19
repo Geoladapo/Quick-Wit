@@ -1,7 +1,6 @@
-import java.util.Locale;
 import java.util.Scanner;
 
-public class ex_22 {
+public class Exercise22 {
     public static void main(String[] args) {
 /*
  (Convert letter grade to number) Write a program that prompts the user to enter a

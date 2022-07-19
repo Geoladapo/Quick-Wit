@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class EX18 {
+public class Exercise18 {
     public static void main(String[] args) {
 
 //        Find the Unicode of a character Write a program that receives a character and

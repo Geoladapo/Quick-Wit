@@ -2,7 +2,7 @@ package codes;
 
 import java.util.Scanner;
 
-public class ex_26 {
+public class Exercise26 {
     public static void main(String[] args) {
         /*
          (Student major and status) Write a program that prompts the user to enter two

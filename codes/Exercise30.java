@@ -2,7 +2,7 @@ package codes;
 
 import java.util.Scanner;
 
-public class ex_30 {
+public class Exercise30 {
     public static void main(String[] args) {
         /*
          (Check substring) Write a program that prompts the user to enter two strings and

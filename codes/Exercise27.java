@@ -2,7 +2,7 @@ package codes;
 
 import java.util.Scanner;
 
-public class ex_27 {
+public class Exercise27 {
     public static void main(String[] args) {
         /*
          (Business: check ISBN-10) An ISBN-10 (International Standard Book Number)

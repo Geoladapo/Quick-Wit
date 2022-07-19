@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class ex_29 {
+public class Exercise29 {
     public static void main(String[] args) {
         /*
          (Check SSN) Write a program that prompts the user to enter a Social Security

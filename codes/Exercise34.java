@@ -2,7 +2,7 @@ package codes;
 
 import java.util.Scanner;
 
-public class ex_34 {
+public class Exercise34 {
     public static void main(String[] args) {
 
 /*

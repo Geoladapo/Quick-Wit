@@ -1,6 +1,6 @@
 package codes;
 
-public class ex_33 {
+public class Exercise33 {
     public static void main(String[] args) {
         /*
          (Generate vehicle plate numbers) Assume a vehicle plate number consists of three

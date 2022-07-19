@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ex_20 {
+public class Exercise20 {
     public static void main(String[] args) {
         /*
          (Hex to binary) Write a program that prompts the user to enter a hex digit and

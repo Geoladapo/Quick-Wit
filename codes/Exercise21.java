@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class ex_21 {
+public class Exercise21 {
     /*
      (Vowel or consonant?) Write a program that prompts the user to enter a letter and
 check whether the letter is a vowel or consonant.

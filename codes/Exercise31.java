@@ -1,10 +1,8 @@
 package codes;
 
-import java.sql.Array;
-import java.util.Arrays;
 import java.util.Scanner;
 
-public class ex_31 {
+public class Exercise31 {
     public static void main(String[] args) {
 
         Scanner in = new Scanner(System.in);
