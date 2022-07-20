@@ -2,7 +2,7 @@ package code;
 
 import java.util.Scanner;
 
-public class Ex04_01 {
+public class Ex05_01 {
     public static void main(String[] args) {
 
             int negInt = 0, posInt = 0, count= 0, sum = 0;
